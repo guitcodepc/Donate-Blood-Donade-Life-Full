@@ -1,2 +1,2 @@
 # Doe-sangue-Doe-Vida-Full
- Projeto Idealizado durante curso no senac SP, com foco em entregar uma solução de site visando a doação de sangue para todos.
+ Projeto desenvolvido durante o curso no SENAC SP, com o objetivo de criar uma solução web que facilite e incentive a doação de sangue, tornando o processo acessível a todos.
